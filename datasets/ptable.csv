@@ -1,118 +1,118 @@
-name;symbol;group_block;element_category;phase
-Hydrogen;H;group 1, s-block;diatomic nonmetal;gas
-Helium;He;group 18 (noble gases), s-block;noble gas;gas
-Lithium;Li;group 1 (alkali metals), s-block;alkali metal;solid
-Beryllium;Be;group 2 (alkaline earth metals), s-block;alkaline earth metal;solid
-Boron;B;group 13, p-block;metalloid;solid
-Carbon;C;group 14 (carbon group), p-block;polyatomic nonmetal, sometimes considered a metalloid;solid
-Nitrogen;N;group 15 (pnictogens), p-block;diatomic nonmetal;gas
-Oxygen;O;group 16 (chalcogens), p-block;diatomic nonmetal;gas
-Fluorine;F;group 17 (halogens), p-block;diatomic nonmetal;gas
-Neon;Ne;group 18 (noble gases), p-block;noble gas;gas
-Sodium;Na;group 1 (alkali metals), s-block;alkali metal;solid
-Magnesium;Mg;group 2 (alkaline earth metals), s-block;alkaline earth metal;solid
-Aluminum;Al;group 13, p-block;post-transition metal, sometimes considered a metalloid;solid
-Silicon;Si;group 14 (carbon group), p-block;metalloid;solid
-Phosphorus;P;group 15 (pnictogens), p-block;polyatomic nonmetal;solid
-Sulfur;S;group 16 (chalcogens), p-block;polyatomic nonmetal;solid
-Chlorine;Cl;group 17 (halogens), p-block;diatomic nonmetal;gas
-Argon;Ar;group 18 (noble gases), p-block;noble gas;gas
-Potassium;K;group 1 (alkali metals), s-block;alkali metal;solid
-Calcium;Ca;group 2 (alkaline earth metals), s-block;alkaline earth metal;solid
-Scandium;Sc;group 3, d-block;transition metal;solid
-Titanium;Ti;group 4, d-block;transition metal;solid
-Vanadium;V;group 5, d-block;transition metal;solid
-Chromium;Cr;group 6, d-block;transition metal;solid
-Manganese;Mn;group 7, d-block;transition metal;solid
-Iron;Fe;group 8, d-block;transition metal;solid
-Cobalt;Co;group 9, d-block;transition metal;solid
-Nickel;Ni;group 10, d-block;transition metal;solid
-Copper;Cu;group 11, d-block;transition metal;solid
-Zinc;Zn;group 12, d-block;transition metal, alternatively considered a post-transition metal;solid
-Gallium;Ga;group 13, p-block;post-transition metal;solid
-Germanium;Ge;group 14 (carbon group), p-block;metalloid;solid
-Arsenic;As;group 15 (pnictogens), p-block;metalloid;solid
-Selenium;Se;group 16 (chalcogens), p-block;polyatomic nonmetal, sometimes considered a metalloid;solid
-Bromine;Br;group 17 (halogens), p-block;diatomic nonmetal;liquid
-Krypton;Kr;group 18 (noble gases), p-block;noble gas;gas
-Rubidium;Rb;group 1 (alkali metals), s-block;alkali metal;solid
-Strontium;Sr;group 2 (alkaline earth metals), s-block;alkaline earth metal;solid
-Yttrium;Y;group 3, d-block;transition metal;solid
-Zirconium;Zr;group 4, d-block;transition metal;solid
-Niobium;Nb;group 5, d-block;transition metal;solid
-Molybdenum;Mo;group 6, d-block;transition metal;solid
-Technetium;Tc;group 7, d-block;transition metal;solid
-Ruthenium;Ru;group 8, d-block;transition metal;
-Rhodium;Rh;group 9, d-block;transition metal;solid
-Palladium;Pd;group 10, d-block;transition metal;solid
-Silver;Ag;group 11, d-block;transition metal;solid
-Cadmium;Cd;group 12, d-block;transition metal, alternatively considered a post-transition metal;solid
-Indium;In;group 13, p-block;post-transition metal;solid
-Tin;Sn;group 14 (carbon group), p-block;post-transition metal;solid
-Antimony;Sb;group 15 (pnictogens), p-block;metalloid;solid
-Tellurium;Te;group 16 (chalcogens), p-block;metalloid;solid
-Iodine;I;group 17 (halogens), p-block;diatomic nonmetal;solid
-Xenon;Xe;group 18 (noble gases), p-block;noble gas;gas
-Cesium;Cs;group 1 (alkali metals), s-block;alkali metal;solid
-Barium;Ba;group 2 (alkaline earth metals), s-block;alkaline earth metals;solid
-Lanthanum;La;group n/a, f-block;lanthanide, sometimes considered a transition metal;solid
-Cerium;Ce;group n/a, f-block;lanthanide;solid
-Praseodymium;Pr;group n/a, f-block;lanthanide;solid
-Neodymium;Nd;group n/a, f-block;lanthanide;solid
-Promethium;Pm;group n/a, f-block;lanthanide;solid
-Samarium;Sm;group n/a, f-block;lanthanide;solid
-Europium;Eu;group n/a, f-block;lanthanide;solid
-Gadolinium;Gd;group n/a, f-block;lanthanide;solid
-Terbium;Tb;group n/a, f-block;lanthanide;solid
-Dysprosium;Dy;group n/a, f-block;lanthanide;solid
-Holmium;Ho;group n/a, f-block;lanthanide;solid
-Erbium;Er;group n/a, f-block;lanthanide;solid
-Thulium;Tm;group n/a, f-block;lanthanide;solid
-Ytterbium;Yb;group n/a, f-block;lanthanide;solid
-Lutetium;Lu;group n/a, d-block;lanthanide, sometimes considered a transition metal;solid
-Hafnium;Hf;group 4, d-block;transition metal;solid
-Tantalum;Ta;group 5, d-block;transition metal;solid
-Tungsten;W;group 6, d-block;transition metal;solid
-Rhenium;Re;group 7, d-block;transition metal;solid
-Osmium;Os;group 8, d-block;transition metal;solid
-Iridium;Ir;group 9, d-block;transition metal;solid
-Platinum;Pt;group 10, d-block;transition metal;solid
-Gold;Au;group 11, d-block;transition metal;solid
-Mercury;Hg;group 12, d-block;transition metal, alternatively considered a post-transition metal;liquid
-Thallium;Tl;group 13, p-block;post-transition metal;solid
-Lead;Pb;group 14 (carbon group), p-block;post-transition metal;solid
-Bismuth;Bi;group 15 (pnictogens), p-block;post-transition metal;solid
-Polonium;Po;group 16 (chalcogens), p-block;post-transition metal, but this status is disputed;solid
-Astatine;At;group 17 (halogens), p-block;metalloid, sometimes classified as a nonmetal, or a metal;solid
-Radon;Rn;group 18 (noble gases), p-block;noble gas;gas
-Francium;Fr;group 1 (alkali metals), s-block;alkali metal;solid presumably
-Radium;Ra;group 2 (alkaline earth metals), s-block;alkaline earth metal;solid
-Actinium;Ac;group n/a, f-block;actinide, sometimes considered a transition metal;solid
-Thorium;Th;group n/a, f-block;actinide;solid
-Protactinium;Pa;group n/a, f-block;actinide;solid
-Uranium;U;group n/a, f-block;actinide;solid
-Neptunium;Np;group n/a, f-block;actinide;solid
-Plutonium;Pu;group n/a, f-block;actinide;solid
-Americium;Am;group n/a, f-block;actinide;solid
-Curium;Cm;group n/a, f-block;actinide;solid
-Berkelium;Bk;group n/a, f-block;actinide;solid
-Californium;Cf;group n/a, f-block;actinide;solid
-Einsteinium;Es;group n/a, f-block;actinide;solid
-Fermium;Fm;group n/a, f-block;actinide;solid (predicted)
-Mendelevium;Md;group n/a, f-block;actinide;solid (predicted)
-Nobelium;No;group n/a, f-block;actinide;solid (predicted)
-Lawrencium;Lr;group n/a, d-block;actinide, sometimes considered a transition metal;solid (predicted)
-Dubnium;Db;group 5, d-block;transition metal;solid (predicted)
-Seaborgium;Sg;group 6, d-block;transition metal;solid (predicted)
-Bohrium;Bh;group 7, d-block;transition metal;solid (predicted)
-Hassium;Hs;group 8, d-block;transition metal;solid (predicted)
-Meitnerium;Mt;group 9, d-block;unknown, but probably a transition metal;solid (predicted)
-Darmstadtium;Ds;group 10, d-block;unknown, but probably a transition metal;solid (predicted)
-Roentgenium;Rg;group 11, d-block;unknown, but probably a transition metal;solid (predicted)
-Ununbium;Uub;group 12, d-block;transition metal, alternatively considered a post-transition metal;gas (predicted)
-Ununtrium;Uut;group 13, p-block;unknown, but probably a post-transition metal;solid (predicted)
-Ununquadium;Uuq;group 14 (carbon group), p-block;post-transition metal;solid (predicted)
-Ununpentium;Uup;group 15 (pnictogens), p-block;unknown, but probably a post-transition metal;solid (predicted)
-Ununhexium;Uuh;group 16 (chalcogens), p-block;unknown, but probably a post-transition metal;solid (predicted)
-Ununseptium;Uus;group 17, p-block;unknown, but probably a post-transition metal;solid (predicted)
-Ununoctium;Uuo;group 18, p-block;unknown, but predicted to be a noble gas;solid (predicted)
+name;symbol;element_category;phase;group_block
+Hydrogen;H;diatomic nonmetal;gas;group 1, s-block
+Helium;He;noble gas;gas;group 18 (noble gases), s-block
+Lithium;Li;alkali metal;solid;group 1 (alkali metals), s-block
+Beryllium;Be;alkaline earth metal;solid;group 2 (alkaline earth metals), s-block
+Boron;B;metalloid;solid;group 13, p-block
+Carbon;C;polyatomic nonmetal, sometimes considered a metalloid;solid;group 14 (carbon group), p-block
+Nitrogen;N;diatomic nonmetal;gas;group 15 (pnictogens), p-block
+Oxygen;O;diatomic nonmetal;gas;group 16 (chalcogens), p-block
+Fluorine;F;diatomic nonmetal;gas;group 17 (halogens), p-block
+Neon;Ne;noble gas;gas;group 18 (noble gases), p-block
+Sodium;Na;alkali metal;solid;group 1 (alkali metals), s-block
+Magnesium;Mg;alkaline earth metal;solid;group 2 (alkaline earth metals), s-block
+Aluminum;Al;post-transition metal, sometimes considered a metalloid;solid;group 13, p-block
+Silicon;Si;metalloid;solid;group 14 (carbon group), p-block
+Phosphorus;P;polyatomic nonmetal;solid;group 15 (pnictogens), p-block
+Sulfur;S;polyatomic nonmetal;solid;group 16 (chalcogens), p-block
+Chlorine;Cl;diatomic nonmetal;gas;group 17 (halogens), p-block
+Argon;Ar;noble gas;gas;group 18 (noble gases), p-block
+Potassium;K;alkali metal;solid;group 1 (alkali metals), s-block
+Calcium;Ca;alkaline earth metal;solid;group 2 (alkaline earth metals), s-block
+Scandium;Sc;transition metal;solid;group 3, d-block
+Titanium;Ti;transition metal;solid;group 4, d-block
+Vanadium;V;transition metal;solid;group 5, d-block
+Chromium;Cr;transition metal;solid;group 6, d-block
+Manganese;Mn;transition metal;solid;group 7, d-block
+Iron;Fe;transition metal;solid;group 8, d-block
+Cobalt;Co;transition metal;solid;group 9, d-block
+Nickel;Ni;transition metal;solid;group 10, d-block
+Copper;Cu;transition metal;solid;group 11, d-block
+Zinc;Zn;transition metal, alternatively considered a post-transition metal;solid;group 12, d-block
+Gallium;Ga;post-transition metal;solid;group 13, p-block
+Germanium;Ge;metalloid;solid;group 14 (carbon group), p-block
+Arsenic;As;metalloid;solid;group 15 (pnictogens), p-block
+Selenium;Se;polyatomic nonmetal, sometimes considered a metalloid;solid;group 16 (chalcogens), p-block
+Bromine;Br;diatomic nonmetal;liquid;group 17 (halogens), p-block
+Krypton;Kr;noble gas;gas;group 18 (noble gases), p-block
+Rubidium;Rb;alkali metal;solid;group 1 (alkali metals), s-block
+Strontium;Sr;alkaline earth metal;solid;group 2 (alkaline earth metals), s-block
+Yttrium;Y;transition metal;solid;group 3, d-block
+Zirconium;Zr;transition metal;solid;group 4, d-block
+Niobium;Nb;transition metal;solid;group 5, d-block
+Molybdenum;Mo;transition metal;solid;group 6, d-block
+Technetium;Tc;transition metal;solid;group 7, d-block
+Ruthenium;Ru;transition metal;;group 8, d-block
+Rhodium;Rh;transition metal;solid;group 9, d-block
+Palladium;Pd;transition metal;solid;group 10, d-block
+Silver;Ag;transition metal;solid;group 11, d-block
+Cadmium;Cd;transition metal, alternatively considered a post-transition metal;solid;group 12, d-block
+Indium;In;post-transition metal;solid;group 13, p-block
+Tin;Sn;post-transition metal;solid;group 14 (carbon group), p-block
+Antimony;Sb;metalloid;solid;group 15 (pnictogens), p-block
+Tellurium;Te;metalloid;solid;group 16 (chalcogens), p-block
+Iodine;I;diatomic nonmetal;solid;group 17 (halogens), p-block
+Xenon;Xe;noble gas;gas;group 18 (noble gases), p-block
+Cesium;Cs;alkali metal;solid;group 1 (alkali metals), s-block
+Barium;Ba;alkaline earth metals;solid;group 2 (alkaline earth metals), s-block
+Lanthanum;La;lanthanide, sometimes considered a transition metal;solid;group n/a, f-block
+Cerium;Ce;lanthanide;solid;group n/a, f-block
+Praseodymium;Pr;lanthanide;solid;group n/a, f-block
+Neodymium;Nd;lanthanide;solid;group n/a, f-block
+Promethium;Pm;lanthanide;solid;group n/a, f-block
+Samarium;Sm;lanthanide;solid;group n/a, f-block
+Europium;Eu;lanthanide;solid;group n/a, f-block
+Gadolinium;Gd;lanthanide;solid;group n/a, f-block
+Terbium;Tb;lanthanide;solid;group n/a, f-block
+Dysprosium;Dy;lanthanide;solid;group n/a, f-block
+Holmium;Ho;lanthanide;solid;group n/a, f-block
+Erbium;Er;lanthanide;solid;group n/a, f-block
+Thulium;Tm;lanthanide;solid;group n/a, f-block
+Ytterbium;Yb;lanthanide;solid;group n/a, f-block
+Lutetium;Lu;lanthanide, sometimes considered a transition metal;solid;group n/a, d-block
+Hafnium;Hf;transition metal;solid;group 4, d-block
+Tantalum;Ta;transition metal;solid;group 5, d-block
+Tungsten;W;transition metal;solid;group 6, d-block
+Rhenium;Re;transition metal;solid;group 7, d-block
+Osmium;Os;transition metal;solid;group 8, d-block
+Iridium;Ir;transition metal;solid;group 9, d-block
+Platinum;Pt;transition metal;solid;group 10, d-block
+Gold;Au;transition metal;solid;group 11, d-block
+Mercury;Hg;transition metal, alternatively considered a post-transition metal;liquid;group 12, d-block
+Thallium;Tl;post-transition metal;solid;group 13, p-block
+Lead;Pb;post-transition metal;solid;group 14 (carbon group), p-block
+Bismuth;Bi;post-transition metal;solid;group 15 (pnictogens), p-block
+Polonium;Po;post-transition metal, but this status is disputed;solid;group 16 (chalcogens), p-block
+Astatine;At;metalloid, sometimes classified as a nonmetal, or a metal;solid;group 17 (halogens), p-block
+Radon;Rn;noble gas;gas;group 18 (noble gases), p-block
+Francium;Fr;alkali metal;solid presumably;group 1 (alkali metals), s-block
+Radium;Ra;alkaline earth metal;solid;group 2 (alkaline earth metals), s-block
+Actinium;Ac;actinide, sometimes considered a transition metal;solid;group n/a, f-block
+Thorium;Th;actinide;solid;group n/a, f-block
+Protactinium;Pa;actinide;solid;group n/a, f-block
+Uranium;U;actinide;solid;group n/a, f-block
+Neptunium;Np;actinide;solid;group n/a, f-block
+Plutonium;Pu;actinide;solid;group n/a, f-block
+Americium;Am;actinide;solid;group n/a, f-block
+Curium;Cm;actinide;solid;group n/a, f-block
+Berkelium;Bk;actinide;solid;group n/a, f-block
+Californium;Cf;actinide;solid;group n/a, f-block
+Einsteinium;Es;actinide;solid;group n/a, f-block
+Fermium;Fm;actinide;solid (predicted);group n/a, f-block
+Mendelevium;Md;actinide;solid (predicted);group n/a, f-block
+Nobelium;No;actinide;solid (predicted);group n/a, f-block
+Lawrencium;Lr;actinide, sometimes considered a transition metal;solid (predicted);group n/a, d-block
+Dubnium;Db;transition metal;solid (predicted);group 5, d-block
+Seaborgium;Sg;transition metal;solid (predicted);group 6, d-block
+Bohrium;Bh;transition metal;solid (predicted);group 7, d-block
+Hassium;Hs;transition metal;solid (predicted);group 8, d-block
+Meitnerium;Mt;unknown, but probably a transition metal;solid (predicted);group 9, d-block
+Darmstadtium;Ds;unknown, but probably a transition metal;solid (predicted);group 10, d-block
+Roentgenium;Rg;unknown, but probably a transition metal;solid (predicted);group 11, d-block
+Ununbium;Uub;transition metal, alternatively considered a post-transition metal;gas (predicted);group 12, d-block
+Ununtrium;Uut;unknown, but probably a post-transition metal;solid (predicted);group 13, p-block
+Ununquadium;Uuq;post-transition metal;solid (predicted);group 14 (carbon group), p-block
+Ununpentium;Uup;unknown, but probably a post-transition metal;solid (predicted);group 15 (pnictogens), p-block
+Ununhexium;Uuh;unknown, but probably a post-transition metal;solid (predicted);group 16 (chalcogens), p-block
+Ununseptium;Uus;unknown, but probably a post-transition metal;solid (predicted);group 17, p-block
+Ununoctium;Uuo;unknown, but predicted to be a noble gas;solid (predicted);group 18, p-block
