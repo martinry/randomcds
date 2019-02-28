@@ -1,0 +1,2 @@
+# randomcds
+Generate categorical datasets
